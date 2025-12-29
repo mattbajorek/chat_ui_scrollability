@@ -1,0 +1,16 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+    {
+      "name": "Chat UI Scrollability iOS Emulator",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "43CCDF85-C87B-4E87-A5D5-0E9A2929EED8",
+      "args": [
+        "--target",
+        "lib/main.dart",
+      ]
+    },
+  ]
+}
